@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+div{
+    display: flex;
+    align-items: center;
+}
+div{
+    height: 50px;
+    width: 1900px;
+    position: fixed;
+    top: 0px;
+    background-color: rgb(84, 75, 75);
+}
+#but{
+    margin-left: 1300px;
+}
+.nav{
+    background: none;
+    border: none;
+    height: 50px;
+    width: 70px;
+    border-left:1px solid black;
+    cursor: pointer;
+}
+img{
+    width: 1900px;
+    height: 1150px;
+}
+#bure{
+    margin-left: 30px;
+    border-right: 1px solid black;
+}
+#shop{
+    background-color: greenyellow;
+}
+button:hover{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section{
+    position: absolute;
+    top: 50px;
+}
+#shop:hover{
+    color: black;
+}
+#bur{
+    margin-left: 300px;
+}
+.nav2{
+    background: none;
+    border: none;
+    height: 50px;
+    width: 150px;
+    color: white;
+    border-radius: 15px;
+}
+fieldset{
+    background-color: white;
+    height: 800px;
+    width: 1000px;
+    margin-left: 470px;
+    padding: 15px;
+    border: none;
+    position: absolute;
+    top: 900px;
+}
+#img{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 60px;
+    left: 560px;
+}
+h2{
+    font-size: 60px;
+}
+h1{
+    font-size: 40px;
+ 
+}
+p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.more{
+    background: none;
+    border: none;
+    margin-top: 140px;
+    margin-left: 20px;
+    font-size: 20px;
+    border-radius: 12px;
+    background-color: rgb(108, 104, 104);
+    height: 40px;
+    width: 150px;
+    cursor: pointer;
+}
+.more:hover{
+    background-color: black;
+}
+#hen{
+    color: rgb(254, 250, 117);
+    position: absolute;
+    top: 300px;
+    left: 470px;
+    font-size: 30px;
+}
+#neh{
+    position: absolute;
+    top: 380px;
+    left: 470px;
+    font-size: 70px;
+    color: rgb(141, 215, 67);
+}
+#ket{
+    position: absolute;
+    top: 470px;
+    left: 470px;
+    font-size: 70px;
+    color:rgb(141, 215, 67);
+}
+#get{
+    position: absolute;
+    top: 570px;
+    left: 470px;
+    font-weight: bold;
+    background: none;
+    border: none;
+    height: 40px; 
+    width: 200px;
+    background-color: bisque;
+    cursor: pointer;
+}
+#get:hover{
+    background-color: black;
+    color: white;
+}
+.jac{
+    width: 30px;
+}
+#fb{
+    margin-left: 40px;
+}
+.nav2:hover{
+background-color: black;
+}
+.lot{
+    width: 250px;
+}
